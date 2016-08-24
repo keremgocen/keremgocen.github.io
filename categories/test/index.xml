@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Ctrl-Space</title>
-    <link>http://keremgocen.github.io/categories/test/</link>
+    <link>/categories/test/</link>
     <description>Recent content in Test on Ctrl-Space</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://keremgocen.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Just another sample post</title>
-      <link>http://keremgocen.github.io/posts/newest/</link>
+      <link>/post/newest/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://keremgocen.github.io/posts/newest/</guid>
+      <guid>/post/newest/</guid>
       <description>
 
 &lt;h2 id=&#34;first-heading:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;First Heading&lt;/h2&gt;
@@ -32,10 +33,10 @@
     
     <item>
       <title>First Post</title>
-      <link>http://keremgocen.github.io/posts/oldest/</link>
+      <link>/post/oldest/</link>
       <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://keremgocen.github.io/posts/oldest/</guid>
+      <guid>/post/oldest/</guid>
       <description>
 
 &lt;h2 id=&#34;sample-post-1:5be75e971689338db5c820fd71089689&#34;&gt;Sample Post 1&lt;/h2&gt;
