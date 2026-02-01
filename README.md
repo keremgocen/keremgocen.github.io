@@ -1,2 +1,0 @@
-# keremgocen.github.io
-blog
