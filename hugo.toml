@@ -73,3 +73,9 @@ buildExpired = false
 
 [outputs]
   home = ["HTML", "RSS"]
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = true
+    id = 'G-7N0YXB6J63'
