@@ -61,16 +61,10 @@ buildExpired = false
     weight = 20
 
   [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 30
-
-  [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 40
+    weight = 30
 
 [outputs]
   home = ["HTML", "RSS"]
