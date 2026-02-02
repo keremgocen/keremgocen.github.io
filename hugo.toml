@@ -29,6 +29,7 @@ buildExpired = false
   hideSummary = false
   showtoc = false
   tocopen = false
+  ShareButtons = ["bluesky", "linkedin", "reddit", "ycombinator"]
 
   [params.homeInfoParams]
     Title = "Welcome to kgocen.uk"
