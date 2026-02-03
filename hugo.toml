@@ -47,6 +47,10 @@ buildExpired = false
     name = "bluesky"
     url = "https://bsky.app/profile/rkg.bsky.social"
 
+  [params.analytics.google]
+    SiteVerificationTag = "G-7N0YXB6J63"
+
+
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -73,4 +77,3 @@ buildExpired = false
   [privacy.googleAnalytics]
     disable = false
     respectDoNotTrack = true
-    id = 'G-7N0YXB6J63'
